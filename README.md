@@ -4,6 +4,10 @@ Christiano Braga
 Instituto de Computação  
 Universidade Federal Fluminense
 
+# Alunos
+- Arthur <>
+- Lucas da Silva Lima - 618031150
+
 - Data de entrega: 24/09/2021
 
 ## Objetivo
