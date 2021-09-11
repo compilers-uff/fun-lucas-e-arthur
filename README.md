@@ -5,7 +5,7 @@ Instituto de Computação
 Universidade Federal Fluminense
 
 # Alunos
-- Arthur <>
+- Arthur Almeida Vianna - 117031049
 - Lucas da Silva Lima - 618031150
 
 - Data de entrega: 24/09/2021
